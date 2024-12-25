@@ -33,7 +33,6 @@ technical_background:
     "Intern - Automated Data Curation, Filtering and Tagging",
   ]
   
-currently_learning: ["Docker, Kubernetes"]
 hobbies: ["Gaming", "Anime", "Reading"]
 ```
   
