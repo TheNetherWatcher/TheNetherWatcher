@@ -30,7 +30,7 @@ education:
     "Self-Taught ML Developer and Researcher",
     "Bachelor's in Computer Science and Engineering(Ongoing)",
   ]
-company: "[unstudio.ai](https://unstudio.ai)"
+company: unstudio.ai
 
 fields_of_interests:
   [
