@@ -24,12 +24,10 @@
 
 ```yaml
 name: Bharat Kaurav
-# located_in: Calgary, Alberta
 current_job: Machine Learning Engineer
 education:
   [
     "Self-Taught ML Developer and Researcher",
-    # "Master's in Electrical and Computer Engineering",
     "Bachelor's in Computer Science and Engineering(Ongoing)",
   ]
 company: Soulber
