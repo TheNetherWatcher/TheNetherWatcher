@@ -58,9 +58,9 @@ hobbies: ["Gaming", "Anime", "Reading"]
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">
+<h2 align="left">
   Let's Connect and have a Chat!💬
-</h3>
+</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bharat-kaurav2024//">
