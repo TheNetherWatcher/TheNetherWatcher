@@ -27,8 +27,8 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
+    "Machine Learning Engineer"
+    "MLOps Solutions Architect",
     "Intern - Machine Learning & Backend Development/Deployment",
     "Intern - Automated Data Curation, Filtering and Tagging",
   ]
