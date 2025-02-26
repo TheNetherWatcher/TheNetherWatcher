@@ -29,8 +29,8 @@ technical_background:
   [
     "Machine Learning Engineer"
     "MLOps Solutions Architect",
-    "Intern - Machine Learning & Backend Development/Deployment",
-    "Intern - Automated Data Curation, Filtering and Tagging",
+    "MLE (Current) - Machine Learning & Backend Development/Deployment",
+    "Intern {Previous} - Automated Data Curation, Filtering and Tagging",
   ]
   
 hobbies: ["Gaming", "Anime", "Reading"]
