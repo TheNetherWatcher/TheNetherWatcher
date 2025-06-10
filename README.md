@@ -8,25 +8,36 @@
 
 ```yaml
 name: Bharat Kaurav
-current_job: Machine Learning Engineer
+current_job: Software Engineer
+current_company: [Metzev](https://www.metzev.com/)
+
 education:
   [
     "Self-Taught ML Developer and Researcher",
     "Bachelor's in Computer Science and Engineering(Ongoing)",
   ]
-company: unstudio.ai
+
+experience:
+  [
+    ["Metzev"](https://www.metzev.com/),
+    ["unstudio.ai"](https://www.unstudio.ai/),
+    ["Styldod Inc."](https://www.styldod.com/),
+  ]
 
 fields_of_interests:
   [
     "Machine Learning",
     "Applied ML",
     "MLOps",
+    "Backend Development",
     "Data Analytics",
     "Data Science",
     "CyberSecurity"
   ]
+
 technical_background:
   [
+    "Software Engineer - Backend"
     "Machine Learning Engineer"
     "MLOps Solutions Architect",
     "MLE (Current) - Machine Learning & Backend Development/Deployment",
