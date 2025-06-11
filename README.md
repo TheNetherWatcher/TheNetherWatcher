@@ -12,39 +12,34 @@ current_job: Software Engineer
 current_company: [Metzev](https://www.metzev.com/)
 
 education:
-  [
-    "Self-Taught ML Developer and Researcher",
-    "Bachelor's in Computer Science and Engineering(Ongoing)",
-  ]
+  - Self-Taught ML Developer and Researcher
+  - Bachelor's in Computer Science and Engineering (Ongoing)
 
 experience:
-  [
-    ["Metzev"](https://www.metzev.com/),
-    ["unstudio.ai"](https://www.unstudio.ai/),
-    ["Styldod Inc."](https://www.styldod.com/),
-  ]
+  - [Metzev](https://www.metzev.com/)
+  - [unstudio.ai](https://www.unstudio.ai/)
+  - [Styldod Inc.](https://www.styldod.com/)
 
 fields_of_interests:
-  [
-    "Machine Learning",
-    "Applied ML",
-    "MLOps",
-    "Backend Development",
-    "Data Analytics",
-    "Data Science",
-    "CyberSecurity"
-  ]
+  - Machine Learning
+  - Applied ML
+  - MLOps
+  - Backend Development
+  - Data Analytics
+  - Data Science
+  - CyberSecurity
 
 technical_background:
-  [
-    "Software Engineer - Backend"
-    "Machine Learning Engineer"
-    "MLOps Solutions Architect",
-    "MLE (Current) - Machine Learning & Backend Development/Deployment",
-    "Intern {Previous} - Automated Data Curation, Filtering and Tagging",
-  ]
-  
-hobbies: ["Gaming", "Anime", "Reading"]
+  - Software Engineer - Backend
+  - Machine Learning Engineer
+  - MLOps Solutions Architect
+  - MLE - Machine Learning (Personalization) & Backend Development/Deployment
+  - Intern - Automated Data Curation, Filtering and Tagging
+
+hobbies:
+  - Gaming
+  - Anime
+  - Reading
 ```
   
 ---  
