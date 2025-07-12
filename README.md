@@ -25,16 +25,10 @@ fields_of_interests:
   - Applied ML
   - MLOps
   - Backend Development
-  - Data Analytics
-  - Data Science
-  - CyberSecurity
 
 technical_background:
   - Software Engineer - Backend
   - Machine Learning Engineer
-  - MLOps Solutions Architect
-  - MLE - Machine Learning (Personalization) & Backend Development/Deployment
-  - Intern - Automated Data Curation, Filtering and Tagging
 
 hobbies:
   - Gaming
