@@ -8,7 +8,7 @@
 
 ```yaml
 name: Bharat Kaurav
-current_job: Software Engineer
+current_job: Product Engineer
 current_company: [Metzev](https://www.metzev.com/)
 
 education:
