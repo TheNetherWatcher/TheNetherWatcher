@@ -8,14 +8,16 @@
 
 ```yaml
 name: Bharat Kaurav
-current_job: Product Engineer
-current_company: [Metzev](https://www.metzev.com/)
+current_job: AI Engineer
+current_company: [Qure.ai](https://www.qure.ai/)
 
 education:
   - Self-Taught ML Developer and Researcher
   - Bachelor's in Computer Science and Engineering (Ongoing)
 
 experience:
+  - [Qure.ai](https://www.qure.ai/)
+  - [Foundation Industries](https://www.ycombinator.com/companies/foundation-industries, https://www.foundation-industries.com/)
   - [Metzev](https://www.metzev.com/)
   - [unstudio.ai](https://www.unstudio.ai/)
   - [Styldod Inc.](https://www.styldod.com/)
@@ -25,12 +27,15 @@ fields_of_interests:
   - Applied ML
   - MLOps
   - Backend Development
+  - Software Engineering
 
 technical_background:
   - Software Engineer - Backend
   - Machine Learning Engineer
+  - Optimization engineering
 
 hobbies:
+  - Gym
   - Gaming
   - Anime
   - Reading
