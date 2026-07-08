@@ -8,7 +8,7 @@
 
 ```yaml
 name: Bharat Kaurav
-current_job: AI Engineer
+current_job: LLM Engineer
 current_company: [Qure.ai](https://www.qure.ai/)
 
 education:
