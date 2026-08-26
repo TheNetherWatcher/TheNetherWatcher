@@ -4,7 +4,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> Little Bit About Me</h2>
 
 ```yaml
 name: Bharat Kaurav
@@ -13,7 +13,7 @@ current_company: [Qure.ai](https://www.qure.ai/)
 
 education:
   - Self-Taught ML Developer and Researcher
-  - Bachelor's in Computer Science and Engineering (Ongoing)
+  - Bachelor's in Computer Science and Engineering
 
 experience:
   - [Qure.ai](https://www.qure.ai/)
@@ -23,6 +23,9 @@ experience:
   - [Styldod Inc.](https://www.styldod.com/)
 
 fields_of_interests:
+  - Agentic AI
+  - Headless Agents
+  - Agents infrastructure
   - Machine Learning
   - Applied ML
   - MLOps
@@ -30,20 +33,20 @@ fields_of_interests:
   - Software Engineering
 
 technical_background:
+  - LLM Engineer
   - Software Engineer - Backend
   - Machine Learning Engineer
   - Optimization engineering
 
 hobbies:
   - Gym
-  - Gaming
   - Anime
-  - Reading
+  - Finding new rabbit holes
 ```
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
@@ -61,7 +64,7 @@ hobbies:
 </p>
 
 <h2 align="left">
-  Let's Connect and have a Chat!💬
+  If you want to connect
 </h2>
 
 <p align="left">
