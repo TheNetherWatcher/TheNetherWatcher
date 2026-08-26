@@ -12,8 +12,7 @@ current_job: LLM Engineer
 current_company: [Qure.ai](https://www.qure.ai/)
 
 education:
-  - Self-Taught ML Developer and Researcher
-  - Bachelor's in Computer Science and Engineering
+  - Bachelor's in Computer Science and Engineering from IIT Indore
 
 experience:
   - [Qure.ai](https://www.qure.ai/)
