@@ -44,7 +44,7 @@
   <img height="165" src="https://streak-stats.demolab.com?user=TheNetherWatcher&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile/top-langs.svg?v=3"/>
+  <img height="165" src="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile/languages.svg"/>
 </p>
 
 <p align="center">
