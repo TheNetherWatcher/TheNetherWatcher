@@ -47,8 +47,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-    <img width="95%" alt="3D contribution graph" src="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile-3d-contrib/profile-gitblock.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile/contrib-3d-dark.svg"/>
+    <img width="95%" alt="3D contribution graph" src="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile/contrib-3d-light.svg"/>
   </picture>
 </p>
 
