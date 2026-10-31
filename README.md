@@ -10,6 +10,7 @@
   <a href="https://www.bharatkaurav.com/"><img src="https://img.shields.io/badge/Website-bharatkaurav.com-000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bharat-kaurav/"><img src="https://img.shields.io/badge/LinkedIn-bharat--kaurav-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/kaurav_bharat"><img src="https://img.shields.io/badge/X-@kaurav__bharat-000?style=flat-square&logo=x&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TheNetherWatcher&style=flat-square&color=7aa2f7&label=Profile+views"/>
 </p>
 
 ## About me
@@ -45,6 +46,13 @@
 </p>
 <p align="center">
   <img height="165" src="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile/languages.svg"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+    <img width="95%" alt="3D contribution graph" src="https://raw.githubusercontent.com/TheNetherWatcher/TheNetherWatcher/main/profile-3d-contrib/profile-gitblock.svg"/>
+  </picture>
 </p>
 
 <p align="center">
