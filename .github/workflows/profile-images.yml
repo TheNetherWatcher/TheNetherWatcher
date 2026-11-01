@@ -1,23 +1,30 @@
-name: Generate 3D contribution graph
+name: Update profile images
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit graph
+      # One commit per run for both the stats card and the 3D graph
+      - name: Commit images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -26,5 +33,5 @@ jobs:
           cp profile-3d-contrib/profile-gitblock.svg profile/contrib-3d-light.svg
           rm -rf profile-3d-contrib
           git add -A profile
-          git commit -m "Update 3D contribution graph" || exit 0
+          git commit -m "Update profile images" || exit 0
           git push
