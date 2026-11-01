@@ -25,6 +25,6 @@ jobs:
           cp profile-3d-contrib/profile-night-rainbow.svg profile/contrib-3d-dark.svg
           cp profile-3d-contrib/profile-gitblock.svg profile/contrib-3d-light.svg
           rm -rf profile-3d-contrib
-          git add -A profile profile-3d-contrib
+          git add -A profile
           git commit -m "Update 3D contribution graph" || exit 0
           git push
