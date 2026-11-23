@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bharat Kaurav&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 21, Total Commits  (last year) : 4029, Total PRs: 201, Total Issues: 47, Contributed to (last year): 109</desc>
+        <desc id="descId">Total Stars Earned: 21, Total Commits  (last year) : 4040, Total PRs: 205, Total Issues: 48, Contributed to (last year): 112</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.04067463338444;
+        stroke-dashoffset: 75.67614521735379;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >201</text>
+      >205</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >47</text>
+      >48</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >109</text>
+      >112</text>
     </g>
   </g>
     </svg>
